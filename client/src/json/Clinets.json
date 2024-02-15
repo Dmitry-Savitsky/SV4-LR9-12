@@ -1,0 +1,29 @@
+{
+    "clients": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john@example.com",
+        "phone": "+1234567890",
+        "address": "123 Main St, City, Country",
+        "notes": "Regular customer"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane@example.com",
+        "phone": "+1987654321",
+        "address": "456 Elm St, Town, Country",
+        "notes": "VIP customer"
+      },
+      {
+        "id": 3,
+        "name": "Bob Johnson",
+        "email": "bob@example.com",
+        "phone": "+1122334455",
+        "address": "789 Oak St, Village, Country",
+        "notes": "New customer"
+      }
+    ]
+  }
+  

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Игнатий Блокнотович",
+    "img": "http://www.mokadvokat.by/uploads/posts/2022-01/thumbs/1643286474_111.jpg",
+    "experience": "25 лет",
+    "phone-number": "+375297894532"
+  },
+  {
+    "id": 2,
+    "name": "Дмитрий Документович",
+    "img": "http://www.mokadvokat.by/uploads/posts/2022-01/thumbs/1643304291_222.jpeg",
+    "experience": "10 лет",
+    "phone-number": "+375445563241"
+  },
+  {
+    "id": 3,
+    "name": "Валерий Бумагович",
+    "img": "http://www.mokadvokat.by/uploads/posts/2021-02/1612938539_ustinovich.jpg",
+    "experience": "15 лет",
+    "phone-number": "+375257815221"
+  }
+]

@@ -1,0 +1,41 @@
+.main-page-container {
+    padding: 20px;
+  }
+  
+  .section {
+    margin-bottom: 10px;
+    background-color: #eeeeee;
+    border-radius: 1rem;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 10px;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1px;
+  }
+  
+  p {
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  
+  .schedule-table {
+    margin-top: 40px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  

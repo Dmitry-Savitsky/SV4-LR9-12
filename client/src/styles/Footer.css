@@ -1,0 +1,29 @@
+.footer-container {
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #9b9779;
+    color: #fff;
+    padding-top: 10px;
+}
+
+.footer-container p {
+    margin: 0;
+}
+
+.social-links a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #79765e;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-left: 1rem;
+}
+
+.social-links a:hover {
+    background-color: #777;
+}
